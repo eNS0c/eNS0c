@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @eNS0c
-- 👀 I’m interested in DevSecOps
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Python
